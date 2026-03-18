@@ -87,8 +87,8 @@ The evaluator reports:
 Clone the repository and create an environment:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/JWLMay/Project-285.git
+cd Project-285
 
 conda create -n diffdehaze-av python=3.10
 conda activate diffdehaze-av
