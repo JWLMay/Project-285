@@ -2,7 +2,7 @@
 
 This repository contains our implementation and experiments for accelerating `DiffDehaze` toward deployment-oriented image dehazing for autonomous systems.
 
-The work is documented in [Final_report.pdf](/Users/jwl/Downloads/Project-285/Final_report.pdf) and focuses on:
+The work is documented in [Final_report.pdf](Final_report.pdf) and focuses on:
 
 - low-latency diffusion dehazing through step reduction
 - AccSamp-based accelerated inference
